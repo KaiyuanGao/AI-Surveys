@@ -32,6 +32,7 @@
 - BERT：[A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf)
 - [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList")
 - [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf "Evaluation of Text Generation: A Survey")
+- 对话式语义解析 : [How Far are We from Effective Context Modeling? An Exploratory Study on Semantic Parsing in Context](https://arxiv.org/pdf/2002.00652.pdf)
 
 ## 推荐系统
 - [Recommender systems survey](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf "Recommender systems survey")
