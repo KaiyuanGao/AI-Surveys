@@ -68,6 +68,7 @@
 - [Recent Advances and Challenges in Task-oriented Dialog System](https://arxiv.org/abs/2003.07490)
 - [Neural Approaches to Conversational AI](https://arxiv.org/abs/1809.08267)
 - [Challenges in Building Intelligent Open-domain Dialog Systems](https://arxiv.org/abs/1905.05709)
+- [How Far are We from Effective Context Modeling? An Exploratory Study on Semantic Parsing in Context](https://arxiv.org/pdf/2002.00652.pdf)
 
 #### 知识图谱
 
