@@ -147,6 +147,12 @@
 - 文本： [Word Embeddings: A Survey](https://arxiv.org/abs/1901.09069 "Word Embeddings: A Survey")
 - [A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278 "A Survey on Contextual Embeddings")
 
+## 多任务学习(Multi-Task Learning)
+- [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379)
+- [An overview of multi-task learning](https://academic.oup.com/nsr/article/5/1/30/4101432)
+- [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114)
+- 
+
 ## Meta-learning & Few-shot Learning
 - [A Survey on Knowledge Graphs: Representation, Acquisition and Applications](https://arxiv.org/abs/2002.00388 "A Survey on Knowledge Graphs: Representation, Acquisition and Applications")
 - [Meta-learning for Few-shot Natural Language Processing: A Survey](https://arxiv.org/abs/2007.09604 "Meta-learning for Few-shot Natural Language Processing: A Survey")
