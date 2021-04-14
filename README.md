@@ -31,6 +31,7 @@
 
 - [Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering](https://www.aclweb.org/anthology/C18-1328/)
 - [深度文本匹配综述](http://d.wanfangdata.com.cn/periodical/jsjxb201704014)
+- [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/pdf/2010.06467.pdf)
 
 #### 阅读理解(Reading Comprehension)
 
@@ -163,7 +164,17 @@
 - [Meta-Learning: A Survey](https://arxiv.org/abs/1810.03548 "Meta-Learning: A Survey")
 - [A Perspective View And Survey Of Meta-learning](https://www.researchgate.net/publication/2375370_A_Perspective_View_And_Survey_Of_Meta-Learning "A Perspective View And Survey Of Meta-learning")
 
+## 搜索推荐
+
+- [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
+- [A Survey on Knowledge Graph-Based Recommender Systems](https://arxiv.org/abs/2003.00911)
+- [Graph Learning Approaches to Recommender Systems: A Review](https://arxiv.org/abs/2004.11718)
+- [Adversarial Machine Learning in Recommender Systems: State of the art and Challenges](https://www.semanticscholar.org/paper/Adversarial-Machine-Learning-in-Recommender-State-Deldjoo-Noia/ea5bf8ec238203da77cd43229c386204abb7717c)
+- [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/abs/2011.02260)
+- 
+
 ## 其他（Others）
+
 - [A Survey on Transfer Learning](http://202.120.39.19:40222/wp-content/uploads/2018/03/A-Survey-on-Transfer-Learning.pdf "A Survey on Transfer Learning")
 
 
