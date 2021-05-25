@@ -58,6 +58,7 @@
 - [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf "Evaluation of Text Generation: A Survey")
 - [Recent Advances in Neural Question Generation](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1905.08949)
 - [Neural Text Generation: Past, Present and Beyond](https://arxiv.org/pdf/1803.07133.pdf)
+- [Pretrained Language Models for Text Generation: A Survey](https://arxiv.org/abs/2105.10311)
 
 #### 摘要抽取(Abstractive Summarization)
 
