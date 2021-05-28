@@ -100,10 +100,10 @@
 
 #### 其他(Others)
 
+- [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075)
 - [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList")
 - [Analysis Methods in Neural Language Processing: A Survey](https://www.aclweb.org/anthology/Q19-1004.pdf)
 -  [A Primer on Neural Network Models for Natural Language Processing ](https://arxiv.org/pdf/1510.00726.pdf)
-- [Analysis Methods in Neural Language Processing: A Survey](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00254)
 
 ## 推荐系统(Recommender System)
 - [Recommender systems survey](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf "Recommender systems survey")
