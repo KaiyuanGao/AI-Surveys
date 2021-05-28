@@ -6,7 +6,19 @@
 
 欢迎有兴趣的小伙伴们一起整理。
 
+**Table of Contents**
 
+- [自然语言处理 (NLP)](#自然语言处理nlp)
+- [推荐系统 (Recommender System)](#推荐系统recommender-system)
+- [深度学习 (Deep Learning)](#深度学习deep-learning-1)
+- [计算机视觉 (Computer Vision)](#计算机视觉computer-vision)
+- [图网络 (Graph Network)](#图网络graph-network)
+- [强化学习 (Reinforcement Learning)](#强化学习reinforcement-learning)
+- [向量化 (Embeddings)](#向量化embeddings)
+- [多任务学习 (Multi-Task Learning)](#多任务学习multi-task-learning)
+- [Meta-learning & Few-shot Learning](#meta-learning--few-shot-learning)
+- [搜索推荐](#搜索推荐)
+- [Others](#其他others-1)
 
 ## 自然语言处理(NLP)
 #### 文本分类(Text Classification)
