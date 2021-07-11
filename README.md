@@ -24,7 +24,7 @@
 #### 文本分类(Text Classification)
 
 - [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705 "Deep Learning Based Text Classification: A Comprehensive Review")
-
+- [A Survey on Data Augmentation for Text Classification](https://arxiv.org/pdf/2107.03158.pdf)
 #### 情感分析(Sentiment Analysis)
 
 - [Deep Learning for Sentiment Analysis : A Survey](https://arxiv.org/abs/1801.07883)
@@ -82,6 +82,7 @@
 - [Neural Approaches to Conversational AI](https://arxiv.org/abs/1809.08267)
 - [Challenges in Building Intelligent Open-domain Dialog Systems](https://arxiv.org/abs/1905.05709)
 - [How Far are We from Effective Context Modeling? An Exploratory Study on Semantic Parsing in Context](https://arxiv.org/pdf/2002.00652.pdf)
+- [A Survey on Dialogue Summarization: Recent Advances and New Frontiers](https://arxiv.org/abs/2107.03175)
 
 #### 知识图谱(Knowledge Graph)
 
