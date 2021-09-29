@@ -119,12 +119,16 @@
 -  [A Primer on Neural Network Models for Natural Language Processing ](https://arxiv.org/pdf/1510.00726.pdf)
 
 ## 推荐系统(Recommender System)
+- [A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation](https://arxiv.org/abs/2104.13030)
 - [Recommender systems survey](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf "Recommender systems survey")
 - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf "Deep Learning based Recommender System: A Survey and New Perspectives")
 - [Are We Really Making Progress? A Worrying Analysis of Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf "Are We Really Making Progress? A Worrying Analysis of Neural Recommendation Approaches")
 - [A Survey of Serendipity in Recommender Systems](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems "A Survey of Serendipity in Recommender Systems")
 - [Diversity in Recommender Systems – A survey](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf "Diversity in Recommender Systems – A survey")
 - [A Survey of Explanations in Recommender Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&rep=rep1&type=pdf "A Survey of Explanations in Recommender Systems")
+- [A Survey on Knowledge Graph-Based Recommender Systems](https://arxiv.org/abs/2003.00911)
+- [Adversarial Machine Learning in Recommender Systems: State of the art and Challenges](https://www.semanticscholar.org/paper/Adversarial-Machine-Learning-in-Recommender-State-Deldjoo-Noia/ea5bf8ec238203da77cd43229c386204abb7717c)
+- [Graph Learning Approaches to Recommender Systems: A Review](https://arxiv.org/abs/2004.11718)
 
 ## 深度学习(Deep Learning)
 - [A State-of-the-Art Survey on Deep Learning Theory and Architectures](https://www.mdpi.com/2079-9292/8/3/292/htm "A State-of-the-Art Survey on Deep Learning Theory and Architectures")
