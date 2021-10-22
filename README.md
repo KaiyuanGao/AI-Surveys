@@ -170,7 +170,10 @@
 - [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379)
 - [An overview of multi-task learning](https://academic.oup.com/nsr/article/5/1/30/4101432)
 - [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114)
-- 
+- [Multi-Task Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/2009.09796)
+- [A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks](https://ieeexplore.ieee.org/document/8848395)
+- [Multi-task learning for natural language processing in the 2020s: Where are we going?](https://www.sciencedirect.com/science/article/abs/pii/S0167865520302087?via%3Dihub)
+- [Empirical Evaluation of Multi-task Learning in Deep Neural Networks for Natural Language Processing](https://link.springer.com/article/10.1007/s00521-020-05268-w)
 
 ## Meta-learning & Few-shot Learning
 - [A Survey on Knowledge Graphs: Representation, Acquisition and Applications](https://arxiv.org/abs/2002.00388 "A Survey on Knowledge Graphs: Representation, Acquisition and Applications")
